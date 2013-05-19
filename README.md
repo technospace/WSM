@@ -1,4 +1,4 @@
 WSN
 ===
 
-Wireless Sensor Network
+Wireless Sensor Mesh
